@@ -55,4 +55,5 @@ if ($transaction_status == 'Success') {
         0,
         $gateway_module
     );
+    echo 'success';
 }
